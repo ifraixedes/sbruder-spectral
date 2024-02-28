@@ -34,7 +34,7 @@ name = "Posts"
 enable = true
 title = 'Arcu aliquet vel lobortis ata nisl<br />eget augue amet aliquet nisl cep donec'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
 fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 '''
 
@@ -76,7 +76,7 @@ body = 'Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. 
 enable = true
 title = 'Accumsan mus tortor nunc aliquet'
 body = '''
-Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend  
+Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet eleifend
 fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
 '''
 
@@ -138,6 +138,7 @@ formspree_form_id = "example_invalid"
 [params.social]
 twitter = ""
 mastodon = ""
+discord = ""
 github = ""
 facebook = ""
 youtube = ""
