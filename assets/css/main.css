@@ -2848,7 +2848,7 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0 ;
+		padding: 2em 0 2em 0 ;
 	}
 
 		.wrapper > .inner {
@@ -3364,7 +3364,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			.wrapper {
-				padding: 4em 3em 2em 3em ;
+				padding: 1em 3em 1em 2em ;
 			}
 
 		}
@@ -3372,7 +3372,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.wrapper {
-				padding: 3em 2em 1em 2em ;
+				padding: 1em 2em 1em 2em ;
 			}
 
 		}
@@ -3873,7 +3873,7 @@ input, select, textarea {
 /* Main */
 
 	#main > header {
-		padding: 12em 0 10em 0 ;
+		padding: 5em 0 3em 0 ;
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner.jpg");
 		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner.jpg");
 		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner.jpg");
@@ -3901,18 +3901,11 @@ input, select, textarea {
 				color: inherit;
 			}
 
-		@media screen and (max-width: 1680px) {
-
-			#main > header {
-				padding: 10em 0 8em 0 ;
-			}
-
-		}
-
 		@media screen and (max-width: 1280px) {
 
 			#main > header {
-				padding: 8em 3em 6em 3em ;
+				padding-right: 3em;
+				padding-left: 3em ;
 			}
 
 		}
@@ -3920,7 +3913,8 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#main > header {
-				padding: 10em 3em 8em 3em ;
+				padding-right: 3em;
+				padding-left: 3em ;
 			}
 
 		}
@@ -3928,7 +3922,8 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#main > header {
-				padding: 5em 3em 3em 3em ;
+				padding-right: 3em;
+				padding-left: 3em ;
 			}
 
 				#main > header h2 {
